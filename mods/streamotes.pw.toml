@@ -1,0 +1,13 @@
+name = "Streamotes"
+filename = "streamotes-1.2.4+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAJz3K09/versions/flxQ6ycT/streamotes-1.2.4%2B1.21.jar"
+hash-format = "sha512"
+hash = "0b9b08ed9b188189e7de691707075d0f681b7ad9edab1d49daa750ae876ff8cffa30fd74fde4ec4022762332245ccd471a4f44db2bd07143e18f14dbeb2cb5ff"
+
+[update]
+[update.modrinth]
+mod-id = "IAJz3K09"
+version = "flxQ6ycT"

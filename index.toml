@@ -1,2 +1,60 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8f34e07fd020c5393d5c1cf686f67013aa64768725ed4ac5245de89a8c1e2173"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "8bb49efe6a0743011a586b2c53b04cb9a0030bfcb9f0753c53a942c044288bed"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "64cb6caa0f5c16d4b80097193fa05a4fe6f9b0dd39cd3184483b7b82be95c0f3"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "ea21b3813c94223714ea5f666815dd14aa0c379a2e70d87571d3b9a2bab26b68"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "34d75daff8b8260780d97bbc2dc545739399df1d5ac304eeb2f80e23354cf3af"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c60d088f476eb37e15d88a762591d39874a99d80c729da813e0f4951e2906d16"
+metafile = true
+
+[[files]]
+file = "mods/noemotecraft-fabric-2.5.2+mc1.21.1.jar"
+hash = "84daf0e17e4e77acd516a08895605d5453959a488031c914d75977c66957d7aa"
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9bdcdf6050b27b23f7f575d958c4efb4fb54b92b833934807ac86ce1463f3504"
+metafile = true
+
+[[files]]
+file = "mods/streamotes.pw.toml"
+hash = "d8a4e812519dc45ee0a7fd83a383a802183a6f8dd3fd3244aa5500f23039d2ef"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "52fe379cac9fc7ea76fd7c527fddfe50f0c48fa5aef351acca40bde83228d185"
+metafile = true
