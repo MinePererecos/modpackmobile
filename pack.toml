@@ -1,12 +1,12 @@
 name = "MobilePererecos"
 author = "Staff MinePererecos"
-version = "1.0.0"
+version = "0.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b9b9ed393a6221d7de9872a6064212cc9602dd3169d00abfecab40161b143a71"
+hash = "aa381a0d7812bb3880428f3f5393f88d8070b660c0dffa28db2e3fc0e5fc3ed4"
 
 [versions]
 fabric = "0.16.9"
